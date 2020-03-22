@@ -1,0 +1,12 @@
+<resources>
+    <string name="PriceTagHint">Preço do produto</string>
+    <string name="Result">Preço final: R$</string>
+    <string name="ButtonText">Calcular Disconto</string>
+    <string name="app_name">DescontosCalcAndroid</string>
+    <string name="Discount1">Desconto 1 : %1$s porcento</string>
+    <string name="Discount2">Desconto 2 : %1$s porcento</string>
+    <string name="Discount3">Desconto 3 : %1$s porcento</string>
+    <string name="Discount4">Desconto 4 : %1$s porcento</string>
+    <string name="NoBtnSellected">Favor Selecione uma opção</string>
+    <string name="NaN">Favor digite o preço</string>
+</resources>
